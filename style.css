@@ -129,6 +129,7 @@ body {
     }
 
     .responsive-image {
-        height: 250px;
-    }
+        max-width: 30%;
+        height: auto;
+      }
 }
