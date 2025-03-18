@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-family: 'Segoe UI', system-ui, sans-serif;
     line-height: 1.6;
     color: #334155;
     background: #f8fafc;
@@ -16,7 +16,7 @@ body {
 }
 
 .bg-dark { background-color: #212529!important; }
-.text-warning { color: #ffc107!important; }
+.text-warning-perso { color: #1C1C1C!important; }
 
 .sticky-header {
     top: 0;
